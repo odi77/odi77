@@ -1,5 +1,3 @@
-# Hello, I'm Cyril! 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -16,8 +14,23 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=odi77&style=flat-square&color=blue" alt=""/>
+</div>
 
-## About Me
+<div align="center">
+ <h1>
+  Hello, I'm Cyril!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+### :man_technologist: About Me 
 
 - 🌱 I'm a Data scientist student based in 📍Rennes, FR.
 - 💼 Currently working on an Inverse problem using UNet model
@@ -26,14 +39,14 @@
 
 - 💡 Always eager to learn and explore new technologies.
 
-## Skills
+### :hammer_and_wrench: Skills
 
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![SAS](https://img.shields.io/badge/-SAS-003366?style=flat-square&logo=sas&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - **Technologies:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 - **Tools:** ![VS Studio](https://img.shields.io/badge/-VS%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 
-## Projects
+## :chart_with_upwards_trend: Projects
 
 Here are some projects I've worked on:
 
@@ -44,7 +57,7 @@ Here are some projects I've worked on:
 3. [Web Crawler](https://github.com/odi77/web-crawler)
    -  Create a single-threaded web crawler that starts from a specified URL and downloads web pages.
 
-## Find Me Online
+## :globe_with_meridians: Find Me Online
 
 - [LinkedIn](linkedin.com/in/cyrille-nebanga-21a3b9164)
 - [Gitlab](gitlab.com/cnebanga)
@@ -52,9 +65,11 @@ Here are some projects I've worked on:
 
 Feel free to reach out to me! I'm always open to collaborations and discussions.
 
-## Stats
+### :fire:  Stats
 
-<img src="https://komarev.com/ghpvc/?username=odi77&style=flat-square&color=blue" alt=""/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=odi77&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odi77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odi77&show_icons=true)
 
